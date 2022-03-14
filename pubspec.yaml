@@ -1,0 +1,27 @@
+name: nft_ui
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.16.1 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get_cli: ^1.7.1
+  get: 4.6.1
+  google_fonts:
+  flutter: 
+    sdk: flutter
+  flutter_countdown_timer: 
+  duration: ^3.0.11
+  invert_colors: ^0.0.4
+  flutter_staggered_grid_view:
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
